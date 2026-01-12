@@ -1,0 +1,22 @@
+Week,Day,Date,game_time,,R,OT,Rec,RR,Opp,Tm,OppR,1stD,TotYd,PassY,RushY,TO,1stDR,TotYdR,PassYR,RushYR,TOR,Offense,Defense,Sp. Tms
+1,Sun,September 7,1:06PM ET,boxscore,W,,1-0,@,Cleveland Browns,9,6,18,271,204,67,2,18,280,182,98,2,-4.86,3.74,3.18
+2,Sun,September 14,1:00PM ET,boxscore,W,,2-0,,Tennessee Titans,33,7,20,291,164,127,,14,236,183,53,2,4.55,18.60,3.21
+3,Sun,September 21,1:00PM ET,boxscore,W,,3-0,,Jacksonville Jaguars,23,13,17,289,216,73,1,15,266,114,152,1,3.20,3.43,4.65
+4,Sun,September 28,8:37PM ET,boxscore,W,,4-0,@,New Orleans Saints,55,21,20,418,318,100,,20,363,208,155,4,25.12,10.55,3.15
+5,Mon,October 6,9:15PM ET,boxscore,W,OT,5-0,@,Tampa Bay Buccaneers,38,35,24,455,381,74,2,25,457,318,139,1,0.23,11.81,-2.69
+6,Sun,October 12,1:00PM ET,boxscore,L,OT,5-1,,Carolina Panthers,20,23,20,369,293,76,3,17,341,152,189,2,-0.95,0.73,-4.02
+7,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
+8,Sun,October 26,4:15PM ET,boxscore,W,,6-1,,Houston Texans,30,21,23,391,269,122,1,18,270,139,131,2,17.85,-2.49,-6.34
+9,Sun,November 2,1:04PM ET,boxscore,W,,7-1,@,Miami Dolphins,23,17,23,356,241,115,2,12,239,192,47,2,-2.11,8.79,-2.64
+10,Sun,November 9,1:02PM ET,boxscore,L,,7-2,@,Jacksonville Jaguars,23,28,20,394,347,47,2,20,353,179,174,2,10.78,-14.33,-1.98
+11,Sun,November 16,4:05PM ET,boxscore,W,,8-2,,New York Jets,38,31,30,538,393,145,,12,324,192,132,,27.35,-9.05,-9.14
+12,Sun,November 23,1:02PM ET,boxscore,W,,9-2,@,Buffalo Bills,17,14,21,326,223,103,1,16,228,118,110,1,1.05,1.98,0.20
+13,Sun,November 30,1:00PM ET,boxscore,L,,9-3,,New England Patriots,34,38,26,370,272,98,2,21,282,226,56,3,4.04,-1.22,-5.97
+14,Sun,December 7,1:03PM ET,boxscore,W,,10-3,@,Tennessee Titans,29,27,21,340,224,116,,23,327,234,93,4,7.23,-12.01,10.08
+15,Sun,December 14,1:00PM ET,boxscore,W,,11-3,,Atlanta Falcons,38,7,27,465,287,178,2,12,154,29,125,2,19.00,17.10,-3.68
+16,Sun,December 21,8:35PM ET,boxscore,L,,11-4,,Denver Broncos,17,31,11,183,136,47,,26,465,238,227,1,-4.11,-17.30,1.67
+17,Sun,December 28,1:03PM ET,boxscore,W,,12-4,@,Houston Texans,20,17,27,418,211,207,2,10,204,105,99,1,-2.38,9.92,-4.78
+,,Playoffs,,,,,,,,,,,,,,,,,,,,,,
+Wild Card,Sun,January 4,4:42PM ET,boxscore,W,,13-4,,Denver Broncos,41,10,23,479,394,85,1,20,322,176,146,3,26.96,2.07,-0.53
+Division,Sun,January 11,1:00PM ET,boxscore,W,,14-4,@,Kansas City Chiefs,38,31,27,434,292,142,,24,408,212,196,1,27.75,-21.73,-3.11
+Conf. Champ.,Sun,January 18,3:06PM ET,boxscore,L,,14-5,@,New England Patriots,14,24,21,306,208,98,5,20,349,237,112,2,-14.15,2.50,1.14

@@ -1,0 +1,17 @@
+Quarter,#Pl,ToGo,Yds,Att,YdsR,Y/A,TD,1D,Cmp,AttR,Cmp%,YdsRR,Y/AR,TDR,Int,Sk,1DR,Rate,ANY/A,
+1st Qtr,240,8.26,6.35,119,630,5.3,2,35,65,116,56,928,8.0,7,7,5,41,77.1,6.2,All Colts plays in 1st Qtr
+2nd Qtr,265,8.12,4.89,131,603,4.6,7,35,65,128,50.8,745,5.8,2,4,6,30,60.8,4.5,All Colts plays in 2nd Qtr
+3rd Qtr,237,8.90,5.38,125,665,5.3,6,30,68,104,65.4,649,6.2,0,1,8,31,78.6,5.4,All Colts plays in 3rd Qtr
+4th Qtr,289,8.76,5.34,115,387,3.4,5,28,90,161,55.9,1260,7.8,11,7,13,58,85.9,6.7,All Colts plays in 4th Qtr
+OT,10,7.80,5.00,6,33,5.5,0,2,1,4,25,17,4.3,0,0,0,1,44.8,4.3,All Colts plays in OT
+1st Half,505,8.19,5.59,250,1233,4.9,9,70,130,244,53.3,1673,6.9,9,11,11,71,68.6,5.3,All Colts plays in 1st Half
+2nd Half,526,8.83,5.36,240,1052,4.4,11,58,158,265,59.6,1909,7.2,11,8,21,89,83.0,6.2,All Colts plays in 2nd Half
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Quarter,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+1st Qtr,243,8.27,5.40,127,642,5.1,1,28,81,106,76.4,735,6.9,5,2,10,39,102.5,6.4,All Opponent plays in 1st Qtr
+2nd Qtr,306,8.27,6.29,134,551,4.1,4,34,110,161,68.3,1436,8.9,8,3,11,55,105.0,8.5,All Opponent plays in 2nd Qtr
+3rd Qtr,245,8.34,4.66,114,467,4.1,6,28,78,124,62.9,739,6.0,2,8,7,38,57.8,3.2,All Opponent plays in 3rd Qtr
+4th Qtr,314,8.46,5.57,155,580,3.7,7,37,107,152,70.4,1209,8.0,12,3,7,59,112.0,8.3,All Opponent plays in 4th Qtr
+OT,4,11.75,2.00,1,1,1.0,0,0,2,2,100,23,11.5,0,0,1,0,114.6,7.7,All Opponent plays in OT
+1st Half,549,8.27,5.90,261,1193,4.6,5,62,191,267,71.5,2171,8.1,13,5,21,94,104.0,7.7,All Opponent plays in 1st Half
+2nd Half,559,8.41,5.17,269,1047,3.9,13,65,185,276,67,1948,7.1,14,11,14,97,87.7,6.0,All Opponent plays in 2nd Half

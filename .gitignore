@@ -1,0 +1,14 @@
+# Azure ML
+*.amltmp
+.ipynb_aml_checkpoints/
+.amlignore.amltmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

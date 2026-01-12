@@ -1,0 +1,15 @@
+Game Situation,#Pl,ToGo,Yds,Att,YdsR,Y/A,TD,1D,Cmp,AttR,Cmp%,YdsRR,Y/AR,TDR,Int,Sk,1DR,Rate,ANY/A,
+"Leading, < 4 min to go",39,8.18,2.54,35,85,2.4,2,5,3,4,75,14,3.5,0,0,0,1,79.2,3.5,"All Colts plays when Leading, < 4 min to go"
+"Tied, < 4 min to go",9,8.00,5.89,6,22,3.7,1,2,3,3,100,31,10.3,0,0,0,3,109.7,10.3,"All Colts plays when Tied, < 4 min to go"
+"Trailing, < 4 min to go",24,8.58,9.29,1,0,.0,0,0,14,21,66.7,240,11.4,2,1,2,10,117.2,10.2,"All Colts plays when Trailing, < 4 min to go"
+"Leading, < 2 min to go",19,9.05,0.00,19,0,.0,1,2,0,0,,0,,0,0,0,0,,,"All Colts plays when Leading, < 2 min to go"
+"Tied, < 2 min to go",4,8.25,2.00,3,2,.7,0,0,1,1,100,6,6.0,0,0,0,1,91.7,6.0,"All Colts plays when Tied, < 2 min to go"
+"Trailing, < 2 min to go",15,8.40,7.93,0,0,,0,0,8,14,57.1,131,9.4,1,1,1,6,82.7,7.1,"All Colts plays when Trailing, < 2 min to go"
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Game Situation,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+"Leading, < 4 min to go",86,8.71,5.20,18,133,7.4,1,8,33,63,52.4,361,5.7,1,6,5,15,35.3,1.6,"All Opponent plays when Leading, < 4 min to go"
+"Tied, < 4 min to go",12,9.33,4.33,2,5,2.5,0,0,4,8,50,54,6.8,0,1,2,4,32.3,.9,"All Opponent plays when Tied, < 4 min to go"
+"Trailing, < 4 min to go",21,8.71,4.43,14,38,2.7,0,2,4,6,66.7,62,10.3,1,0,1,3,140.3,11.7,"All Opponent plays when Trailing, < 4 min to go"
+"Leading, < 2 min to go",43,8.02,3.93,6,43,7.2,0,3,17,34,50,158,4.6,1,5,3,7,33.3,-1.3,"All Opponent plays when Leading, < 2 min to go"
+"Tied, < 2 min to go",8,9.50,3.25,1,1,1.0,0,0,2,6,33.3,31,5.2,0,1,1,2,11.8,-2.0,"All Opponent plays when Tied, < 2 min to go"
+"Trailing, < 2 min to go",6,10.50,-0.83,6,-5,-0.8,0,0,0,0,,0,,0,0,0,0,,,"All Opponent plays when Trailing, < 2 min to go"

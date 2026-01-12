@@ -1,0 +1,11 @@
+Down,#Pl,ToGo,Yds,Att,YdsR,Y/A,TD,1D,Cmp,AttR,Cmp%,YdsRR,Y/AR,TDR,Int,Sk,1DR,Rate,ANY/A,
+1st,464,10.00,6.07,262,1384,5.3,7,44,115,195,59,1467,7.5,6,8,7,57,75.7,6.1,All Colts plays on 1st down
+2nd,330,7.91,4.77,145,522,3.6,6,41,95,171,55.6,1166,6.8,4,8,14,49,65.1,4.8,All Colts plays on 2nd down
+3rd,219,6.84,5.43,78,362,4.6,6,36,70,132,53,895,6.8,8,3,9,47,85.3,6.5,All Colts plays on 3rd down
+4th,28,3.75,3.96,11,50,4.5,1,9,9,15,60,71,4.7,2,0,2,8,111.4,6.5,All Colts plays on 4th down
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Down,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+1st,487,10.07,5.06,282,1079,3.8,5,30,137,193,71,1442,7.5,7,6,12,51,91.5,6.4,All Opponent plays on 1st down
+2nd,370,7.71,6.16,170,816,4.8,8,52,139,194,71.6,1496,7.7,6,4,6,70,95.6,7.2,All Opponent plays on 2nd down
+3rd,234,6.29,5.58,69,347,5.0,5,40,95,147,64.6,1111,7.6,12,6,18,64,97.6,6.6,All Opponent plays on 3rd down
+4th,21,2.71,4.38,10,-1,-0.1,0,5,7,11,63.6,93,8.5,2,0,0,6,129.9,12.1,All Opponent plays on 4th down

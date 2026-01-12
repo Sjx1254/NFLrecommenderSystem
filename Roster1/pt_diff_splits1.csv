@@ -1,0 +1,9 @@
+Score Differential,#Pl,ToGo,Yds,Att,YdsR,Y/A,TD,1D,Cmp,AttR,Cmp%,YdsRR,Y/AR,TDR,Int,Sk,1DR,Rate,ANY/A,
+Leading,457,8.58,6.14,227,1025,4.5,6,48,150,224,67,1831,8.2,21,7,6,98,110.2,8.4,All Colts plays when Leading
+Tied,233,7.85,7.07,104,448,4.3,3,26,88,127,69.3,1218,9.6,15,1,2,65,135.9,11.4,All Colts plays when Tied
+Trailing,278,8.41,7.24,96,378,3.9,1,25,115,176,65.3,1683,9.6,15,2,6,76,120.1,10.4,All Colts plays when Trailing
+,Rushing,Passing,,,,,,,,,,,,,,,,,,
+Score Differential,#Pl,ToGo,Yds,Att,Yds,Y/A,TD,1D,Cmp,Att,Cmp%,Yds,Y/A,TD,Int,Sk,1D,Rate,ANY/A,
+Leading,648,8.58,5.58,243,1160,4.8,5,58,243,373,65.1,2683,7.2,16,13,32,132,86.1,6.0,All Opponent plays when Leading
+Tied,165,8.36,5.84,74,302,4.1,2,15,56,85,65.9,698,8.2,5,4,6,33,91.2,6.8,All Opponent plays when Tied
+Trailing,229,8.28,5.99,123,575,4.7,5,33,65,99,65.7,851,8.6,5,2,7,44,101.0,8.1,All Opponent plays when Trailing

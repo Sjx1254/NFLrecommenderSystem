@@ -1,0 +1,372 @@
+column,category
+play_id,Identifiers & Meta
+game_id,Identifiers & Meta
+old_game_id,Identifiers & Meta
+home_team,Teams & Coaches
+away_team,Teams & Coaches
+season_type,Identifiers & Meta
+week,Identifiers & Meta
+posteam,Teams & Coaches
+posteam_type,Teams & Coaches
+defteam,Teams & Coaches
+side_of_field,Timing & Field Position
+yardline_100,Timing & Field Position
+game_date,Identifiers & Meta
+quarter_seconds_remaining,Timing & Field Position
+half_seconds_remaining,Timing & Field Position
+game_seconds_remaining,Timing & Field Position
+game_half,Timing & Field Position
+quarter_end,Timing & Field Position
+drive,Drive Data
+sp,Scoring & Score State
+qtr,Timing & Field Position
+down,Timing & Field Position
+goal_to_go,Timing & Field Position
+time,Timing & Field Position
+yrdln,Timing & Field Position
+ydstogo,Play Outcomes & Events
+ydsnet,Play Outcomes & Events
+desc,Play Outcomes & Events
+play_type,Play Classification & Formation
+yards_gained,Play Outcomes & Events
+shotgun,Play Classification & Formation
+no_huddle,Play Classification & Formation
+qb_dropback,Play Classification & Formation
+qb_kneel,Play Classification & Formation
+qb_spike,Play Classification & Formation
+qb_scramble,Play Classification & Formation
+pass_length,Play Classification & Formation
+pass_location,Play Classification & Formation
+air_yards,Play Classification & Formation
+yards_after_catch,Play Classification & Formation
+run_location,Play Classification & Formation
+run_gap,Play Classification & Formation
+field_goal_result,Special Teams Outcomes & Attempts
+kick_distance,Special Teams Outcomes & Attempts
+extra_point_result,Special Teams Outcomes & Attempts
+two_point_conv_result,Special Teams Outcomes & Attempts
+home_timeouts_remaining,Timing & Field Position
+away_timeouts_remaining,Timing & Field Position
+timeout,Timing & Field Position
+timeout_team,Timing & Field Position
+td_team,Teams & Coaches
+td_player_name,Player Participation – Offense
+td_player_id,Player Participation – Offense
+posteam_timeouts_remaining,Timing & Field Position
+defteam_timeouts_remaining,Timing & Field Position
+total_home_score,Scoring & Score State
+total_away_score,Scoring & Score State
+posteam_score,Scoring & Score State
+defteam_score,Scoring & Score State
+score_differential,Scoring & Score State
+posteam_score_post,Scoring & Score State
+defteam_score_post,Scoring & Score State
+score_differential_post,Scoring & Score State
+no_score_prob,Advanced Models & Probabilities
+opp_fg_prob,Advanced Models & Probabilities
+opp_safety_prob,Advanced Models & Probabilities
+opp_td_prob,Advanced Models & Probabilities
+fg_prob,Advanced Models & Probabilities
+safety_prob,Advanced Models & Probabilities
+td_prob,Advanced Models & Probabilities
+extra_point_prob,Advanced Models & Probabilities
+two_point_conversion_prob,Advanced Models & Probabilities
+ep,Advanced Models & Probabilities
+epa,Advanced Models & Probabilities
+total_home_epa,Advanced Models & Probabilities
+total_away_epa,Advanced Models & Probabilities
+total_home_rush_epa,Advanced Models & Probabilities
+total_away_rush_epa,Advanced Models & Probabilities
+total_home_pass_epa,Advanced Models & Probabilities
+total_away_pass_epa,Advanced Models & Probabilities
+air_epa,Advanced Models & Probabilities
+yac_epa,Advanced Models & Probabilities
+comp_air_epa,Advanced Models & Probabilities
+comp_yac_epa,Advanced Models & Probabilities
+total_home_comp_air_epa,Advanced Models & Probabilities
+total_away_comp_air_epa,Advanced Models & Probabilities
+total_home_comp_yac_epa,Advanced Models & Probabilities
+total_away_comp_yac_epa,Advanced Models & Probabilities
+total_home_raw_air_epa,Advanced Models & Probabilities
+total_away_raw_air_epa,Advanced Models & Probabilities
+total_home_raw_yac_epa,Advanced Models & Probabilities
+total_away_raw_yac_epa,Advanced Models & Probabilities
+wp,Advanced Models & Probabilities
+def_wp,Advanced Models & Probabilities
+home_wp,Advanced Models & Probabilities
+away_wp,Advanced Models & Probabilities
+wpa,Advanced Models & Probabilities
+vegas_wpa,Betting & Vegas
+vegas_home_wpa,Betting & Vegas
+home_wp_post,Advanced Models & Probabilities
+away_wp_post,Advanced Models & Probabilities
+vegas_wp,Betting & Vegas
+vegas_home_wp,Betting & Vegas
+total_home_rush_wpa,Advanced Models & Probabilities
+total_away_rush_wpa,Advanced Models & Probabilities
+total_home_pass_wpa,Advanced Models & Probabilities
+total_away_pass_wpa,Advanced Models & Probabilities
+air_wpa,Advanced Models & Probabilities
+yac_wpa,Advanced Models & Probabilities
+comp_air_wpa,Advanced Models & Probabilities
+comp_yac_wpa,Advanced Models & Probabilities
+total_home_comp_air_wpa,Advanced Models & Probabilities
+total_away_comp_air_wpa,Advanced Models & Probabilities
+total_home_comp_yac_wpa,Advanced Models & Probabilities
+total_away_comp_yac_wpa,Advanced Models & Probabilities
+total_home_raw_air_wpa,Advanced Models & Probabilities
+total_away_raw_air_wpa,Advanced Models & Probabilities
+total_home_raw_yac_wpa,Advanced Models & Probabilities
+total_away_raw_yac_wpa,Advanced Models & Probabilities
+punt_blocked,Special Teams Outcomes & Attempts
+first_down_rush,Play Outcomes & Events
+first_down_pass,Play Outcomes & Events
+first_down_penalty,Play Outcomes & Events
+third_down_converted,Play Outcomes & Events
+third_down_failed,Play Outcomes & Events
+fourth_down_converted,Play Outcomes & Events
+fourth_down_failed,Play Outcomes & Events
+incomplete_pass,Play Outcomes & Events
+touchback,Special Teams Outcomes & Attempts
+interception,Play Outcomes & Events
+punt_inside_twenty,Special Teams Outcomes & Attempts
+punt_in_endzone,Special Teams Outcomes & Attempts
+punt_out_of_bounds,Special Teams Outcomes & Attempts
+punt_downed,Special Teams Outcomes & Attempts
+punt_fair_catch,Special Teams Outcomes & Attempts
+kickoff_inside_twenty,Special Teams Outcomes & Attempts
+kickoff_in_endzone,Special Teams Outcomes & Attempts
+kickoff_out_of_bounds,Special Teams Outcomes & Attempts
+kickoff_downed,Special Teams Outcomes & Attempts
+kickoff_fair_catch,Special Teams Outcomes & Attempts
+fumble_forced,Play Outcomes & Events
+fumble_not_forced,Play Outcomes & Events
+fumble_out_of_bounds,Play Outcomes & Events
+solo_tackle,Play Outcomes & Events
+safety,Play Outcomes & Events
+penalty,Play Outcomes & Events
+tackled_for_loss,Play Outcomes & Events
+fumble_lost,Play Outcomes & Events
+own_kickoff_recovery,Special Teams Outcomes & Attempts
+own_kickoff_recovery_td,Special Teams Outcomes & Attempts
+qb_hit,Play Outcomes & Events
+rush_attempt,Play Outcomes & Events
+pass_attempt,Play Outcomes & Events
+sack,Play Outcomes & Events
+touchdown,Play Outcomes & Events
+pass_touchdown,Play Outcomes & Events
+rush_touchdown,Play Outcomes & Events
+return_touchdown,Play Outcomes & Events
+extra_point_attempt,Special Teams Outcomes & Attempts
+two_point_attempt,Special Teams Outcomes & Attempts
+field_goal_attempt,Special Teams Outcomes & Attempts
+kickoff_attempt,Special Teams Outcomes & Attempts
+punt_attempt,Special Teams Outcomes & Attempts
+fumble,Play Outcomes & Events
+complete_pass,Play Outcomes & Events
+assist_tackle,Play Outcomes & Events
+lateral_reception,Play Outcomes & Events
+lateral_rush,Play Outcomes & Events
+lateral_return,Play Outcomes & Events
+lateral_recovery,Play Outcomes & Events
+passer_player_id,Player Participation – Offense
+passer_player_name,Player Participation – Offense
+passing_yards,Player Participation – Offense
+receiver_player_id,Player Participation – Offense
+receiver_player_name,Player Participation – Offense
+receiving_yards,Player Participation – Offense
+rusher_player_id,Player Participation – Offense
+rusher_player_name,Player Participation – Offense
+rushing_yards,Player Participation – Offense
+lateral_receiver_player_id,Player Participation – Offense
+lateral_receiver_player_name,Player Participation – Offense
+lateral_receiving_yards,Player Participation – Offense
+lateral_rusher_player_id,Player Participation – Offense
+lateral_rusher_player_name,Player Participation – Offense
+lateral_rushing_yards,Player Participation – Offense
+lateral_sack_player_id,Player Participation – Offense
+lateral_sack_player_name,Player Participation – Offense
+interception_player_id,Player Participation – Defense & ST
+interception_player_name,Player Participation – Defense & ST
+lateral_interception_player_id,Player Participation – Defense & ST
+lateral_interception_player_name,Player Participation – Defense & ST
+punt_returner_player_id,Player Participation – Defense & ST
+punt_returner_player_name,Player Participation – Defense & ST
+lateral_punt_returner_player_id,Player Participation – Defense & ST
+lateral_punt_returner_player_name,Player Participation – Defense & ST
+kickoff_returner_player_name,Player Participation – Defense & ST
+kickoff_returner_player_id,Player Participation – Defense & ST
+lateral_kickoff_returner_player_id,Player Participation – Defense & ST
+lateral_kickoff_returner_player_name,Player Participation – Defense & ST
+punter_player_id,Player Participation – Defense & ST
+punter_player_name,Player Participation – Defense & ST
+kicker_player_name,Player Participation – Defense & ST
+kicker_player_id,Player Participation – Defense & ST
+own_kickoff_recovery_player_id,Player Participation – Defense & ST
+own_kickoff_recovery_player_name,Player Participation – Defense & ST
+blocked_player_id,Player Participation – Defense & ST
+blocked_player_name,Player Participation – Defense & ST
+tackle_for_loss_1_player_id,Player Participation – Defense & ST
+tackle_for_loss_1_player_name,Player Participation – Defense & ST
+tackle_for_loss_2_player_id,Player Participation – Defense & ST
+tackle_for_loss_2_player_name,Player Participation – Defense & ST
+qb_hit_1_player_id,Player Participation – Defense & ST
+qb_hit_1_player_name,Player Participation – Defense & ST
+qb_hit_2_player_id,Player Participation – Defense & ST
+qb_hit_2_player_name,Player Participation – Defense & ST
+forced_fumble_player_1_team,Player Participation – Defense & ST
+forced_fumble_player_1_player_id,Player Participation – Defense & ST
+forced_fumble_player_1_player_name,Player Participation – Defense & ST
+forced_fumble_player_2_team,Player Participation – Defense & ST
+forced_fumble_player_2_player_id,Player Participation – Defense & ST
+forced_fumble_player_2_player_name,Player Participation – Defense & ST
+solo_tackle_1_team,Player Participation – Defense & ST
+solo_tackle_2_team,Player Participation – Defense & ST
+solo_tackle_1_player_id,Player Participation – Defense & ST
+solo_tackle_2_player_id,Player Participation – Defense & ST
+solo_tackle_1_player_name,Player Participation – Defense & ST
+solo_tackle_2_player_name,Player Participation – Defense & ST
+assist_tackle_1_player_id,Player Participation – Defense & ST
+assist_tackle_1_player_name,Player Participation – Defense & ST
+assist_tackle_1_team,Player Participation – Defense & ST
+assist_tackle_2_player_id,Player Participation – Defense & ST
+assist_tackle_2_player_name,Player Participation – Defense & ST
+assist_tackle_2_team,Player Participation – Defense & ST
+assist_tackle_3_player_id,Player Participation – Defense & ST
+assist_tackle_3_player_name,Player Participation – Defense & ST
+assist_tackle_3_team,Player Participation – Defense & ST
+assist_tackle_4_player_id,Player Participation – Defense & ST
+assist_tackle_4_player_name,Player Participation – Defense & ST
+assist_tackle_4_team,Player Participation – Defense & ST
+tackle_with_assist,Player Participation – Defense & ST
+tackle_with_assist_1_player_id,Player Participation – Defense & ST
+tackle_with_assist_1_player_name,Player Participation – Defense & ST
+tackle_with_assist_1_team,Player Participation – Defense & ST
+tackle_with_assist_2_player_id,Player Participation – Defense & ST
+tackle_with_assist_2_player_name,Player Participation – Defense & ST
+tackle_with_assist_2_team,Player Participation – Defense & ST
+pass_defense_1_player_id,Player Participation – Defense & ST
+pass_defense_1_player_name,Player Participation – Defense & ST
+pass_defense_2_player_id,Player Participation – Defense & ST
+pass_defense_2_player_name,Player Participation – Defense & ST
+fumbled_1_team,Player Participation – Defense & ST
+fumbled_1_player_id,Player Participation – Defense & ST
+fumbled_1_player_name,Player Participation – Defense & ST
+fumbled_2_player_id,Player Participation – Defense & ST
+fumbled_2_player_name,Player Participation – Defense & ST
+fumbled_2_team,Player Participation – Defense & ST
+fumble_recovery_1_team,Player Participation – Defense & ST
+fumble_recovery_1_yards,Player Participation – Defense & ST
+fumble_recovery_1_player_id,Player Participation – Defense & ST
+fumble_recovery_1_player_name,Player Participation – Defense & ST
+fumble_recovery_2_team,Player Participation – Defense & ST
+fumble_recovery_2_yards,Player Participation – Defense & ST
+fumble_recovery_2_player_id,Player Participation – Defense & ST
+fumble_recovery_2_player_name,Player Participation – Defense & ST
+sack_player_id,Player Participation – Defense & ST
+sack_player_name,Player Participation – Defense & ST
+half_sack_1_player_id,Player Participation – Defense & ST
+half_sack_1_player_name,Player Participation – Defense & ST
+half_sack_2_player_id,Player Participation – Defense & ST
+half_sack_2_player_name,Player Participation – Defense & ST
+return_team,Teams & Coaches
+return_yards,Special Teams Outcomes & Attempts
+penalty_team,Teams & Coaches
+penalty_player_id,Play Outcomes & Events
+penalty_player_name,Play Outcomes & Events
+penalty_yards,Play Outcomes & Events
+replay_or_challenge,Play Outcomes & Events
+replay_or_challenge_result,Play Outcomes & Events
+penalty_type,Play Outcomes & Events
+defensive_two_point_attempt,Special Teams Outcomes & Attempts
+defensive_two_point_conv,Special Teams Outcomes & Attempts
+defensive_extra_point_attempt,Special Teams Outcomes & Attempts
+defensive_extra_point_conv,Special Teams Outcomes & Attempts
+safety_player_name,Player Participation – Defense & ST
+safety_player_id,Player Participation – Defense & ST
+season,Identifiers & Meta
+cp,Advanced Models & Probabilities
+cpoe,Advanced Models & Probabilities
+series,Timing & Field Position
+series_success,Timing & Field Position
+series_result,Timing & Field Position
+order_sequence,Identifiers & Meta
+start_time,Timing & Field Position
+time_of_day,Timing & Field Position
+stadium,Environment & Stadium
+weather,Environment & Stadium
+nfl_api_id,Identifiers & Meta
+play_clock,Timing & Field Position
+play_deleted,Admin / Data Quality
+play_type_nfl,Play Classification & Formation
+special_teams_play,Play Classification & Formation
+st_play_type,Play Classification & Formation
+end_clock_time,Timing & Field Position
+end_yard_line,Timing & Field Position
+fixed_drive,Drive Data
+fixed_drive_result,Drive Data
+drive_real_start_time,Drive Data
+drive_play_count,Drive Data
+drive_time_of_possession,Drive Data
+drive_first_downs,Drive Data
+drive_inside20,Drive Data
+drive_ended_with_score,Drive Data
+drive_quarter_start,Drive Data
+drive_quarter_end,Drive Data
+drive_yards_penalized,Drive Data
+drive_start_transition,Drive Data
+drive_end_transition,Drive Data
+drive_game_clock_start,Timing & Field Position
+drive_game_clock_end,Timing & Field Position
+drive_start_yard_line,Drive Data
+drive_end_yard_line,Drive Data
+drive_play_id_started,Drive Data
+drive_play_id_ended,Drive Data
+away_score,Scoring & Score State
+home_score,Scoring & Score State
+location,Environment & Stadium
+result,Betting & Vegas
+total,Betting & Vegas
+spread_line,Betting & Vegas
+total_line,Betting & Vegas
+div_game,Environment & Stadium
+roof,Environment & Stadium
+surface,Environment & Stadium
+temp,Environment & Stadium
+wind,Environment & Stadium
+home_coach,Teams & Coaches
+away_coach,Teams & Coaches
+stadium_id,Environment & Stadium
+game_stadium,Environment & Stadium
+aborted_play,Play Outcomes & Events
+success,Play Outcomes & Events
+passer,Player Participation – Offense
+passer_jersey_number,Player Participation – Offense
+rusher,Player Participation – Offense
+rusher_jersey_number,Player Participation – Offense
+receiver,Player Participation – Offense
+receiver_jersey_number,Player Participation – Offense
+pass,Play Classification & Formation
+rush,Play Classification & Formation
+first_down,Play Outcomes & Events
+special,Play Classification & Formation
+play,Play Classification & Formation
+passer_id,Player Participation – Offense
+rusher_id,Player Participation – Offense
+receiver_id,Player Participation – Offense
+name,Player Participation – Offense
+jersey_number,Player Participation – Offense
+id,Identifiers & Meta
+fantasy_player_name,Fantasy
+fantasy_player_id,Fantasy
+fantasy,Fantasy
+fantasy_id,Fantasy
+out_of_bounds,Play Outcomes & Events
+home_opening_kickoff,Special Teams Outcomes & Attempts
+qb_epa,Advanced Models & Probabilities
+xyac_epa,Advanced Models & Probabilities
+xyac_mean_yardage,Advanced Models & Probabilities
+xyac_median_yardage,Advanced Models & Probabilities
+xyac_success,Advanced Models & Probabilities
+xyac_fd,Advanced Models & Probabilities
+xpass,Advanced Models & Probabilities
